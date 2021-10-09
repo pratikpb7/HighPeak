@@ -6,7 +6,7 @@ int main()
 
 
    char* a[10]={"Fitbit Plus: 7980","IPods: 22349","MI Band: 999","Cult Pass: 2799","Macbook Pro:229900","Digital Camera: 11101","Alexa: 9999","SandwichToaster: 2195","Microwave Oven: 9800","Scale: 4999"};
-   printf("number of employees:");
+   printf("Number of employees:");
    scanf("%d",&n);
    int b[10]={7980,22349,999,2799,229900,11101,9999,2195,9800,4999};
    int d[10];
